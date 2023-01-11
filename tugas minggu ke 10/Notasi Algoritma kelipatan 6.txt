@@ -1,0 +1,13 @@
+judul
+	Program kelipatan angka 6
+	Galih putra pratama
+kamus
+AngLoncat <-- Integer
+
+Deskripsi
+	output "PROGRAM KELIPATAN ANGKA 6"
+	AngLoncat <- 0
+	while(AngLoncat<=100)do
+		output (AngLoncat)
+		AngLoncat=AngLoncat+6
+	

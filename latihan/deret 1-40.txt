@@ -1,0 +1,5 @@
+rampilkan angka dari 1-40
+berapa total jumlah bilangan 1-40
+
+tampilkan berapa angka yg habis dibagi 4 dari 1-40
+ada berapa bilangan, angka yg habis dibagi 4 dari 1-40

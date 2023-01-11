@@ -1,0 +1,19 @@
+
+	warming up& streching
+	typing skill
+
+1.	HELLO SEMARANG
+	APAKABAR HARI INI
+
+2.	A = 1.9	B = input	c = 20
+	*)	A * B =?
+	**)	A + c * B =
+	***)	rubah A --> 20	c --> 1.9
+
+3.	pada nomor 1,assignment kan ke helo dan kabar (string)
+	helo = "HELO SEMARANG";
+`	kabar = "APAKABAR HARI INI"
+	outputkan helo dan kabar
+
+4.	pada nomor 2, A B C di input
+
